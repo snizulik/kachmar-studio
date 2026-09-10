@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://snizulik.github.io/kachmar-studio/sitemap.xml
